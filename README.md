@@ -1,8 +1,8 @@
-# Fabric Example Mod
+# Ender Chest Anywhere
 
-## Setup
+## How
 
-For setup instructions please see the [fabric documentation page](https://docs.fabricmc.net/develop/getting-started/setting-up-a-development-environment) that relates to the IDE that you are using.
+Use the new /echest command to open your Ender Chest.
 
 ## License
 
